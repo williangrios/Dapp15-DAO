@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ITAUTEC\\Desktop\\REPOS\\EATTHEBLOCKS\\PROJETOS\\15-dao\\contracts\\DAO.sol": {
+      "lastModificationDate": 1670928960719,
+      "contentHash": "0febf2501ba7dec6f3d7262742b11f0c",
+      "sourceName": "contracts/DAO.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "DAO"
+      ]
+    }
+  }
+}
